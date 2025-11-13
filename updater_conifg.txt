@@ -1,0 +1,3 @@
+CURRENT_VERSION=1.0.0
+LATEST_VERSION=1.0.1
+MAIN_APP_URL=https://drive.google.com/uc?export=download&id=YOUR_FILE_ID
